@@ -14,6 +14,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "classyham/SerenAccess"
+        "classyham/SerenAccess",
+        "classyham/SerenJson"
     ]
 }
